@@ -4,3 +4,6 @@ c = input("Enter your age")
 d = input("Enter your position")
 def get_age(age):
     return age
+
+def get_sum(x,y):
+    return x+y
